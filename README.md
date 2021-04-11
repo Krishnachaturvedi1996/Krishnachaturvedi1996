@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Krishna Chaturvedi
+- 👀 I’m interested in hiring top talent
+- 🌱 I’m currently working with Microsoft India (R&D) Pvt. Ltd.
+- 💞️ I’m looking to collaborate with Data Scientists, SWE, UX Desigeners, etc.
+- 📫 Reach me at krishnachaturvedi1996@gmail.com
